@@ -4,7 +4,7 @@ This project implements a lightweight LLM-based research agent that automates th
 
 The agent uses modular AI tools in a structured workflow, designed to simulate an early form of agentic behavior — combining tool usage, reasoning, and reflection.
 
-## Features
+## 🚀Features
 Topic Breakdown Tool
 Breaks down a broad research topic into smaller, focused subtopics using a language model.
 
@@ -35,7 +35,7 @@ Reviews the generated summary, provides suggestions for improvement, and propose
 
 7. The agent delivers the final refined summary to the user.
 
-## Tech Stack
+## 🛠Tech Stack
 - Python
 
 - Serverless LLM APIs (TogetherAI, OpenAI, Anthropic, Fireworks, or Groq)
@@ -52,7 +52,7 @@ Each agent capability is modularized as a separate Python function for reusabili
 The workflow follows a clean, linear progression but leaves room for adding loops, retries, and dynamic planning.
 
 **Caching Search Results:**
-Optional caching is implemented to store and reuse search results, minimizing redundant API calls.
+Optional caching is implemented to store and reuse search results, minimizing redundant API calls.coded
 
 ## 📚 Future Improvements
 Introduce dynamic planning where the agent chooses tools based on intermediate results.
@@ -65,4 +65,4 @@ Integrate semantic search or vector databases for deeper context retrieval.
 
 ## 🧑‍💻 Author
 - Anvitha Hiriadka
-- LinkedIn[https://www.linkedin.com/in/anvitha-hiriadka-b68817118/]
+- ![LinkedIn](https://www.linkedin.com/in/anvitha-hiriadka-b68817118/)
