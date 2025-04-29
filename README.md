@@ -65,4 +65,4 @@ Integrate semantic search or vector databases for deeper context retrieval.
 
 ## 🧑‍💻 Author
 - Anvitha Hiriadka
-- ![LinkedIn](https://www.linkedin.com/in/anvitha-hiriadka-b68817118/)
+- [LinkedIn](https://www.linkedin.com/in/anvitha-hiriadka-b68817118/)
